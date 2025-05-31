@@ -14,7 +14,9 @@ This document provides technical documentation for the stock price prediction an
 1. **Create a virtual environment** (recommended):
    ```bash
    python3 -m venv jupyter
-2. source jupyter/bin/activate
+2. Turn on the virtual env
+   ```
+   source jupyter/bin/activate
    ```
 
 2. **Install required packages**:
